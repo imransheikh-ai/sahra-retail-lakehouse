@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-GITHUB-USERNAME.github.io/sahra-retail-lakehouse/"><b>📘 Open the step-by-step guide</b></a> ·
+  <a href="https://imransheikh-ai.github.io/sahra-retail-lakehouse/"><b>📘 Open the step-by-step guide</b></a> ·
   <a href="https://www.linkedin.com/in/imranazhar/">Connect on LinkedIn</a><br>
   <img alt="Databricks Free Edition" src="https://img.shields.io/badge/Databricks-Free%20Edition-FF3621">
   <img alt="Medallion" src="https://img.shields.io/badge/Architecture-Bronze%20%E2%86%92%20Silver%20%E2%86%92%20Gold-A07800">
@@ -23,7 +23,7 @@ AI/BI dashboard → Genie, orchestrated as a scheduled Job. Everything runs for 
 (Ramadan, both Eids, White Friday, Dubai Shopping Festival). The raw data contains realistic mistakes on purpose,
 so the pipeline has real cleaning to do.
 
-![Published dashboard](assets/dashboard.jpg)
+![Published AI/BI dashboard](assets/dashboard.jpg)
 
 ## What this project shows
 - **Bronze:** incremental ingestion with Auto Loader (`read_files`) into streaming tables, with file lineage.
@@ -33,7 +33,7 @@ so the pipeline has real cleaning to do.
 - **Serving:** an AI/BI dashboard and a Genie space that answers questions in plain English.
 - **Operations:** a daily Job (new data → pipeline refresh) with a schedule.
 
-![Pipeline graph](assets/pipeline-graph.jpg)
+![Architecture: raw files to Bronze, Silver, Gold, dashboard and Genie](assets/architecture.svg)
 
 ## What is in the box
 ```
@@ -58,7 +58,7 @@ tests/validate_locally.py          runs the Silver/Gold SQL on plain Apache Spar
 ```
 
 ## Quick start
-Follow the **[illustrated guide](https://YOUR-GITHUB-USERNAME.github.io/sahra-retail-lakehouse/)** (12 parts, about 3 hours), or in short:
+Follow the **[illustrated guide](https://imransheikh-ai.github.io/sahra-retail-lakehouse/)** (12 parts, about 3 hours), or in short:
 
 1. Import the notebooks and run `00_setup` → creates `workspace.sahra_bronze|silver|gold` and the `landing` volume.
 2. Run `01_generate_data` (or upload `data/*` into `/Volumes/workspace/sahra_bronze/landing/<folder>/`).
