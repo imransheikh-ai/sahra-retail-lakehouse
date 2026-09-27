@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="960" height="400" rx="16" fill="#FFFFFF"/>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#8A94A3"/></marker></defs>
+  <text x="32" y="44" font-size="20" font-weight="700" fill="#1B2230">Sahra Retail Lakehouse · Databricks Free Edition</text>
+  <text x="32" y="68" font-size="13" fill="#525C6B">Lakeflow Declarative Pipeline · Unity Catalog: workspace.sahra_bronze / sahra_silver / sahra_gold</text>
+  <!-- boxes -->
+  <g font-size="13" fill="#1B2230">
+    <rect x="32" y="100" width="150" height="200" rx="12" fill="#F5F6F8" stroke="#DCE1E7"/>
+    <text x="48" y="128" font-size="15" font-weight="700">Raw files</text>
+    <text x="48" y="154">orders (JSON)</text><text x="48" y="176">customers (CSV)</text>
+    <text x="48" y="198">products (CSV)</text><text x="48" y="220">stores (CSV)</text>
+    <text x="48" y="256" fill="#525C6B" font-size="12">Volume: landing/</text>
+
+    <rect x="214" y="100" width="160" height="200" rx="12" fill="#F7EEE6" stroke="#9C5E2A" stroke-width="1.5"/>
+    <text x="230" y="128" font-size="15" font-weight="700" fill="#7A4516">Bronze · 4 tables</text>
+    <text x="230" y="154">Auto Loader</text><text x="230" y="176">streaming tables</text>
+    <text x="230" y="198">data as it arrived</text><text x="230" y="220">+ file lineage</text>
+
+    <rect x="406" y="100" width="170" height="200" rx="12" fill="#EEF1F5" stroke="#667488" stroke-width="1.5"/>
+    <text x="422" y="128" font-size="15" font-weight="700" fill="#46526A">Silver · 7 tables</text>
+    <text x="422" y="154">de-duplication</text><text x="422" y="176">type &amp; format fixes</text>
+    <text x="422" y="198">quality rules +</text><text x="422" y="216">quarantine table</text>
+    <text x="422" y="240">SCD Type 2 history</text><text x="422" y="258">(AUTO CDC)</text>
+
+    <rect x="608" y="100" width="160" height="200" rx="12" fill="#FBF3DC" stroke="#A07800" stroke-width="1.5"/>
+    <text x="624" y="128" font-size="15" font-weight="700" fill="#7A5B00">Gold · 6 tables</text>
+    <text x="624" y="154">sales fact</text><text x="624" y="176">UAE event calendar</text>
+    <text x="624" y="198">daily &amp; monthly KPIs</text><text x="624" y="220">product ranking</text>
+    <text x="624" y="242">RFM segments</text>
+
+    <rect x="800" y="100" width="128" height="92" rx="12" fill="#E2F2E9" stroke="#1E7A4C" stroke-width="1.5"/>
+    <text x="816" y="128" font-size="15" font-weight="700" fill="#15603B">Dashboard</text>
+    <text x="816" y="152">AI/BI charts</text><text x="816" y="172">and KPIs</text>
+    <rect x="800" y="208" width="128" height="92" rx="12" fill="#E2F2E9" stroke="#1E7A4C" stroke-width="1.5"/>
+    <text x="816" y="236" font-size="15" font-weight="700" fill="#15603B">Genie</text>
+    <text x="816" y="260">questions in</text><text x="816" y="280">plain English</text>
+  </g>
+  <g stroke="#8A94A3" stroke-width="2" marker-end="url(#a)">
+    <line x1="184" y1="200" x2="210" y2="200"/><line x1="376" y1="200" x2="402" y2="200"/>
+    <line x1="578" y1="200" x2="604" y2="200"/><line x1="770" y1="170" x2="796" y2="150"/><line x1="770" y1="230" x2="796" y2="252"/>
+  </g>
+  <rect x="32" y="326" width="896" height="46" rx="12" fill="#F5F6F8" stroke="#DCE1E7" stroke-dasharray="5 4"/>
+  <text x="48" y="355" font-size="14" fill="#1B2230"><tspan font-weight="700">Daily Job</tspan>  ·  task 1: new orders arrive (02_simulate_new_orders)  →  task 2: pipeline refresh  ·  schedule 06:00 Asia/Dubai</text>
+</svg>
