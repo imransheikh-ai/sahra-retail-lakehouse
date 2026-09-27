@@ -1,0 +1,246 @@
+customer_id,first_name,last_name,email,phone,city,emirate,loyalty_tier,marketing_opt_in,signup_date,updated_at
+C02604,Karim,Saleh,karim.saleh2604@example.com,+971506728665,Dubai,Dubai,Silver,true,2025-07-13,2025-07-13T00:00:00
+C02606,Saeed,Brown,saeed.brown2606@example.com,+971502425801,Dubai,Dubai,Silver,true,2025-10-01,2025-10-01T00:00:00
+C02608,Dina,Mansour,dina.mansour2608@example.com,+971508349098,Abu Dhabi,Abu Dhabi,Silver,false,2025-12-11,2025-12-11T00:00:00
+C02609,Sana,Wilson,sana.wilson2609@example.com,+971503120948,Sharjah,Sharjah,Gold,true,2025-09-10,2025-09-10T00:00:00
+C02611,Hamdan,Farouk,hamdan.farouk2611@example.com,+971508753122,Ras Al Khaimah,Ras Al Khaimah,Gold,false,2025-10-05,2025-10-05T00:00:00
+C02612,Anjali,Reyes,anjali.reyes2612@example.com,+971502658956,Ras Al Khaimah,Ras Al Khaimah,Silver,true,2025-09-29,2025-09-29T00:00:00
+C02613,Ali,Hussain,ali.hussain2613@example.com,+971507563559,Al Ain,Abu Dhabi,Bronze,true,2025-09-13,2025-09-13T00:00:00
+C02617,Aisha,Taylor,aisha.taylor2617@example.com,+971508134099,Dubai,Dubai,Silver,true,2025-10-24,2025-10-24T00:00:00
+C02618,Mariam,Smith,mariam.smith2618@example.com,+971501346743,Sharjah,Sharjah,Platinum,true,2025-07-12,2025-07-12T00:00:00
+C02619,Imran,Nair,imran.nair2619@example.com,+971507619682,Dubai,Dubai,Silver,true,2025-12-10,2025-12-10T00:00:00
+C02620,Reem,Al Suwaidi,reem.alsuwaidi2620@example.com,+971509936187,Dubai,Dubai,Gold,false,2025-10-23,2025-10-23T00:00:00
+C02622,Imran,Al Hashmi,imran.alhashmi2622@example.com,+971503063881,Ajman,Ajman,Bronze,true,2025-09-30,2025-09-30T00:00:00
+C02624,Sophie,Pillai,sophie.pillai2624@example.com,+971507745396,Dubai,Dubai,Gold,true,2025-12-24,2025-12-24T00:00:00
+C02625,Bilal,Fernandes,bilal.fernandes2625@example.com,+971507726711,Sharjah,Sharjah,Bronze,true,2025-12-21,2025-12-21T00:00:00
+C02626,Aisha,Al Mansoori,aisha.almansoori2626@example.com,+971506398188,Abu Dhabi,Abu Dhabi,Bronze,false,2025-11-14,2025-11-14T00:00:00
+C02628,Hassan,Qureshi,hassan.qureshi2628@example.com,+971502940958,Dubai,Dubai,Bronze,true,2025-09-08,2025-09-08T00:00:00
+C02629,Dina,Al Shamsi,dina.alshamsi2629@example.com,+971509523800,Abu Dhabi,Abu Dhabi,Bronze,true,2025-12-15,2025-12-15T00:00:00
+C02632,Omar,Al Shamsi,omar.alshamsi2632@example.com,+971508748174,Ras Al Khaimah,Ras Al Khaimah,Silver,true,2025-08-01,2025-08-01T00:00:00
+C02633,Karim,Garcia,karim.garcia2633@example.com,+971505456045,Abu Dhabi,Abu Dhabi,Platinum,false,2025-10-03,2025-10-03T00:00:00
+C02638,Tariq,Al Mansoori,tariq.almansoori2638@example.com,+971503904693,Al Ain,Abu Dhabi,Bronze,false,2025-12-05,2025-12-05T00:00:00
+C02639,Oliver,Mansour,oliver.mansour2639@example.com,+971506367049,Sharjah,Sharjah,Bronze,false,2025-11-12,2025-11-12T00:00:00
+C02643,Grace,Wilson,grace.wilson2643@example.com,+971504732002,Fujairah,Fujairah,Bronze,true,2025-08-30,2025-08-30T00:00:00
+C02644,Grace,Al Mansoori,grace.almansoori2644@example.com,+971502581975,Sharjah,Sharjah,Silver,true,2025-09-02,2025-09-02T00:00:00
+C02645,Noura,Wilson,noura.wilson2645@example.com,+971508031853,Dubai,Dubai,Bronze,true,2025-11-16,2025-11-16T00:00:00
+C02651,James,Sheikh,james.sheikh2651@example.com,+971505290929,Sharjah,Sharjah,Bronze,true,2025-10-14,2025-10-14T00:00:00
+C02653,Yasmin,Menon,yasmin.menon2653@example.com,+971502672332,Dubai,Dubai,Bronze,false,2025-12-23,2025-12-23T00:00:00
+C02655,Ahmed,Sheikh,ahmed.sheikh2655@example.com,+971508527111,Al Ain,Abu Dhabi,Silver,true,2025-09-02,2025-09-02T00:00:00
+C02660,Grace,Hussain,grace.hussain2660@example.com,+971502831351,Dubai,Dubai,Bronze,true,2025-12-03,2025-12-03T00:00:00
+C02666,Arjun,Al Suwaidi,arjun.alsuwaidi2666@example.com,+971501285508,Dubai,Dubai,Bronze,false,2025-10-29,2025-10-29T00:00:00
+C02667,Layla,Haddad,layla.haddad2667@example.com,+971504493756,Al Ain,Abu Dhabi,Bronze,false,2025-09-01,2025-09-01T00:00:00
+C02668,Imran,Al Hashmi,imran.alhashmi2668@example.com,+971503190265,Dubai,Dubai,Bronze,false,2025-07-01,2025-07-01T00:00:00
+C02669,Anjali,Al Nuaimi,anjali.alnuaimi2669@example.com,+971503247082,Umm Al Quwain,Umm Al Quwain,Gold,false,2025-11-06,2025-11-06T00:00:00
+C02670,Rania,Wilson,rania.wilson2670@example.com,+971501621686,Dubai,Dubai,Bronze,true,2025-07-04,2025-07-04T00:00:00
+C02672,Lucas,Nasser,lucas.nasser2672@example.com,+971508179975,Dubai,Dubai,Bronze,true,2025-11-08,2025-11-08T00:00:00
+C02675,Yousef,Al Suwaidi,yousef.alsuwaidi2675@example.com,+971501731689,Abu Dhabi,Abu Dhabi,Bronze,false,2025-10-19,2025-10-19T00:00:00
+C02676,Salma,Nair,salma.nair2676@example.com,+971503145093,Abu Dhabi,Abu Dhabi,Silver,false,2025-09-29,2025-09-29T00:00:00
+C02682,Ahmed,Al Mansoori,ahmed.almansoori2682@example.com,+971502509635,Abu Dhabi,Abu Dhabi,Bronze,true,2025-11-11,2025-11-11T00:00:00
+C02684,Olivia,Mansour,olivia.mansour2684@example.com,+971501750435,Sharjah,Sharjah,Bronze,false,2025-08-23,2025-08-23T00:00:00
+C02691,Priya,Cruz,priya.cruz2691@example.com,+971505585854,Abu Dhabi,Abu Dhabi,Bronze,true,2025-11-03,2025-11-03T00:00:00
+C02693,Salma,Al Suwaidi,salma.alsuwaidi2693@example.com,+971503553618,Sharjah,Sharjah,Silver,true,2025-12-29,2025-12-29T00:00:00
+C02694,Salma,Cruz,salma.cruz2694@example.com,+971503504700,Fujairah,Fujairah,Bronze,true,2025-11-03,2025-11-03T00:00:00
+C02695,Omar,Pillai,omar.pillai2695@example.com,+971506448596,Dubai,Dubai,Bronze,false,2025-09-15,2025-09-15T00:00:00
+C02696,Karim,Nair,karim.nair2696@example.com,+971503680486,Abu Dhabi,Abu Dhabi,Bronze,true,2025-07-04,2025-07-04T00:00:00
+C02698,Noura,Nasser,noura.nasser2698@example.com,+971503964356,Ras Al Khaimah,Ras Al Khaimah,Bronze,true,2025-10-10,2025-10-10T00:00:00
+C02699,Jose,Al Falasi,jose.alfalasi2699@example.com,+971502020595,Ajman,Ajman,Silver,true,2025-12-08,2025-12-08T00:00:00
+C02701,Mariam,Al Nuaimi,mariam.alnuaimi2701@example.com,+971503949116,Dubai,Dubai,Platinum,true,2025-08-24,2025-08-24T00:00:00
+C02702,Mark,Al Zaabi,mark.alzaabi2702@example.com,+971503098719,Dubai,Dubai,Silver,true,2025-11-19,2025-11-19T00:00:00
+C02703,Ayesha,Taylor,ayesha.taylor2703@example.com,+971508203855,Dubai,Dubai,Silver,true,2025-10-01,2025-10-01T00:00:00
+C02705,Saeed,Garcia,saeed.garcia2705@example.com,+971501422000,Abu Dhabi,Abu Dhabi,Silver,true,2025-08-04,2025-08-04T00:00:00
+C02709,Angela,Haddad,angela.haddad2709@example.com,+971507714063,Ras Al Khaimah,Ras Al Khaimah,Gold,true,2025-07-21,2025-07-21T00:00:00
+C02711,Ravi,Iyer,ravi.iyer2711@example.com,+971502350894,Al Ain,Abu Dhabi,Bronze,true,2025-11-17,2025-11-17T00:00:00
+C02714,Olivia,Haddad,olivia.haddad2714@example.com,+971502853259,Abu Dhabi,Abu Dhabi,Bronze,false,2025-08-04,2025-08-04T00:00:00
+C02715,Priya,Wilson,priya.wilson2715@example.com,+971505308018,Dubai,Dubai,Bronze,true,2025-08-11,2025-08-11T00:00:00
+C02716,Arjun,Cruz,arjun.cruz2716@example.com,+971502475412,Abu Dhabi,Abu Dhabi,Bronze,false,2025-12-21,2025-12-21T00:00:00
+C02717,Salma,Nair,salma.nair2717@example.com,+971502347342,Al Ain,Abu Dhabi,Bronze,true,2025-09-11,2025-09-11T00:00:00
+C02718,Mark,Sharma,mark.sharma2718@example.com,+971506660014,Dubai,Dubai,Bronze,false,2025-12-10,2025-12-10T00:00:00
+C02720,Jose,Reyes,jose.reyes2720@example.com,+971501306797,Ajman,Ajman,Gold,false,2025-07-28,2025-07-28T00:00:00
+C02723,Olivia,D'Souza,olivia.dsouza2723@example.com,+971505021791,Abu Dhabi,Abu Dhabi,Bronze,false,2025-11-10,2025-11-10T00:00:00
+C02724,Oliver,Haddad,oliver.haddad2724@example.com,+971501980698,Dubai,Dubai,Bronze,false,2025-11-26,2025-11-26T00:00:00
+C02727,Olivia,Al Hashmi,olivia.alhashmi2727@example.com,+971508828832,Al Ain,Abu Dhabi,Silver,true,2025-09-13,2025-09-13T00:00:00
+C02730,Ahmed,Al Falasi,ahmed.alfalasi2730@example.com,+971508340862,Dubai,Dubai,Bronze,true,2025-07-07,2025-07-07T00:00:00
+C02731,Noura,Al Nuaimi,noura.alnuaimi2731@example.com,+971503792865,Al Ain,Abu Dhabi,Bronze,false,2025-12-29,2025-12-29T00:00:00
+C02732,Sophie,Al Mansoori,sophie.almansoori2732@example.com,+971508851435,Al Ain,Abu Dhabi,Silver,false,2025-08-17,2025-08-17T00:00:00
+C02733,Noura,Nasser,noura.nasser2733@example.com,+971501461211,Dubai,Dubai,Silver,true,2025-08-29,2025-08-29T00:00:00
+C02735,Hamdan,Pillai,hamdan.pillai2735@example.com,+971504803143,Dubai,Dubai,Bronze,true,2025-10-03,2025-10-03T00:00:00
+C02737,Fatima,Al Mansoori,fatima.almansoori2737@example.com,+971505309952,Dubai,Dubai,Bronze,false,2025-09-15,2025-09-15T00:00:00
+C02739,Tariq,Haddad,tariq.haddad2739@example.com,+971508648613,Abu Dhabi,Abu Dhabi,Bronze,true,2025-07-17,2025-07-17T00:00:00
+C02740,Grace,Wilson,grace.wilson2740@example.com,+971502986324,Dubai,Dubai,Silver,false,2025-07-20,2025-07-20T00:00:00
+C02741,Farhan,Sheikh,farhan.sheikh2741@example.com,+971501921383,Dubai,Dubai,Gold,false,2025-07-07,2025-07-07T00:00:00
+C02743,Sophie,Reyes,sophie.reyes2743@example.com,+971503626317,Ras Al Khaimah,Ras Al Khaimah,Gold,false,2025-11-30,2025-11-30T00:00:00
+C02744,Noura,Sharma,noura.sharma2744@example.com,+971505841206,Al Ain,Abu Dhabi,Gold,true,2025-12-23,2025-12-23T00:00:00
+C02747,Ali,Haddad,ali.haddad2747@example.com,+971507782690,Sharjah,Sharjah,Bronze,false,2025-07-07,2025-07-07T00:00:00
+C02748,Sana,Sharma,sana.sharma2748@example.com,+971502521948,Dubai,Dubai,Bronze,true,2025-11-12,2025-11-12T00:00:00
+C02750,Rania,Saleh,rania.saleh2750@example.com,+971503051509,Ajman,Ajman,Bronze,true,2025-09-17,2025-09-17T00:00:00
+C02756,Rodel,Al Falasi,rodel.alfalasi2756@example.com,+971505422045,Dubai,Dubai,Bronze,false,2025-09-15,2025-09-15T00:00:00
+C02761,Anjali,Al Shamsi,anjali.alshamsi2761@example.com,+971508190895,Abu Dhabi,Abu Dhabi,Bronze,true,2025-09-23,2025-09-23T00:00:00
+C02762,Meera,Menon,meera.menon2762@example.com,+971502134102,Dubai,Dubai,Gold,true,2025-07-14,2025-07-14T00:00:00
+C02763,Jose,Iyer,jose.iyer2763@example.com,+971503321348,Abu Dhabi,Abu Dhabi,Silver,true,2025-10-09,2025-10-09T00:00:00
+C02764,Mark,Fernandes,mark.fernandes2764@example.com,+971501874398,Ajman,Ajman,Gold,false,2025-09-29,2025-09-29T00:00:00
+C02766,Salma,Patel,salma.patel2766@example.com,+971506819229,Dubai,Dubai,Silver,false,2025-07-10,2025-07-10T00:00:00
+C02767,Salma,Sheikh,salma.sheikh2767@example.com,+971508014890,Al Ain,Abu Dhabi,Bronze,false,2025-11-07,2025-11-07T00:00:00
+C02768,Grace,Saleh,grace.saleh2768@example.com,+971501148219,Fujairah,Fujairah,Bronze,false,2025-11-03,2025-11-03T00:00:00
+C02773,Zainab,Pillai,zainab.pillai2773@example.com,+971503024875,Abu Dhabi,Abu Dhabi,Bronze,true,2025-08-27,2025-08-27T00:00:00
+C02775,Layla,Al Hashmi,layla.alhashmi2775@example.com,+971501131929,Ajman,Ajman,Silver,false,2025-07-12,2025-07-12T00:00:00
+C02781,Rashid,Santos,rashid.santos2781@example.com,+971508268414,Sharjah,Sharjah,Gold,true,2025-08-15,2025-08-15T00:00:00
+C02783,Liam,Smith,liam.smith2783@example.com,+971504673938,Dubai,Dubai,Bronze,false,2025-11-13,2025-11-13T00:00:00
+C02784,Layla,Al Suwaidi,layla.alsuwaidi2784@example.com,+971502977579,Dubai,Dubai,Bronze,false,2025-09-11,2025-09-11T00:00:00
+C02788,Zainab,Nasser,zainab.nasser2788@example.com,+971501364072,Ajman,Ajman,Bronze,true,2025-09-12,2025-09-12T00:00:00
+C02792,Yasmin,Brown,yasmin.brown2792@example.com,+971501996223,Dubai,Dubai,Silver,false,2025-07-12,2025-07-12T00:00:00
+C02794,Chloe,Cruz,chloe.cruz2794@example.com,+971504492198,Sharjah,Sharjah,Silver,true,2025-10-12,2025-10-12T00:00:00
+C02796,Mohammed,Wilson,mohammed.wilson2796@example.com,+971504867004,Abu Dhabi,Abu Dhabi,Bronze,false,2025-10-04,2025-10-04T00:00:00
+C02798,Imran,Khan,imran.khan2798@example.com,+971502978107,Fujairah,Fujairah,Bronze,true,2025-07-22,2025-07-22T00:00:00
+C02800,Layla,Santos,layla.santos2800@example.com,+971504408282,Abu Dhabi,Abu Dhabi,Bronze,false,2025-07-17,2025-07-17T00:00:00
+C02802,Saeed,Khoury,saeed.khoury2802@example.com,+971508106026,Dubai,Dubai,Bronze,true,2025-07-11,2025-07-11T00:00:00
+C02803,Karim,Khoury,karim.khoury2803@example.com,+971502726134,Dubai,Dubai,Silver,false,2025-09-19,2025-09-19T00:00:00
+C02804,Noura,Farouk,noura.farouk2804@example.com,+971504834745,Sharjah,Sharjah,Bronze,true,2025-08-07,2025-08-07T00:00:00
+C02805,Olivia,Santos,olivia.santos2805@example.com,+971503305668,Dubai,Dubai,Bronze,true,2025-12-05,2025-12-05T00:00:00
+C02808,Grace,Pillai,grace.pillai2808@example.com,+971508734220,Ras Al Khaimah,Ras Al Khaimah,Bronze,true,2025-09-23,2025-09-23T00:00:00
+C02816,Arjun,Khoury,arjun.khoury2816@example.com,+971503823299,Abu Dhabi,Abu Dhabi,Bronze,true,2025-09-19,2025-09-19T00:00:00
+C02817,Imran,Taylor,imran.taylor2817@example.com,+971507573147,Dubai,Dubai,Silver,true,2025-11-24,2025-11-24T00:00:00
+C02819,Rashid,Garcia,rashid.garcia2819@example.com,+971507898609,Abu Dhabi,Abu Dhabi,Silver,true,2025-07-28,2025-07-28T00:00:00
+C02827,Hessa,Mansour,hessa.mansour2827@example.com,+971501625318,Abu Dhabi,Abu Dhabi,Bronze,true,2025-09-29,2025-09-29T00:00:00
+C02828,Olivia,Nasser,olivia.nasser2828@example.com,+971501920950,Ajman,Ajman,Platinum,false,2025-12-18,2025-12-18T00:00:00
+C02829,Ravi,Menon,ravi.menon2829@example.com,+971506938942,Sharjah,Sharjah,Bronze,true,2025-07-21,2025-07-21T00:00:00
+C02830,Layla,Nair,layla.nair2830@example.com,+971502512159,Dubai,Dubai,Gold,false,2025-08-27,2025-08-27T00:00:00
+C02832,Priya,Cruz,priya.cruz2832@example.com,+971508302666,Sharjah,Sharjah,Bronze,true,2025-11-14,2025-11-14T00:00:00
+C02842,Arjun,Al Zaabi,arjun.alzaabi2842@example.com,+971501053903,Al Ain,Abu Dhabi,Bronze,true,2025-12-29,2025-12-29T00:00:00
+C02845,Mark,Al Ketbi,mark.alketbi2845@example.com,+971507888141,Dubai,Dubai,Bronze,true,2025-12-12,2025-12-12T00:00:00
+C02846,Priya,Santos,priya.santos2846@example.com,+971501859485,Dubai,Dubai,Silver,true,2025-09-26,2025-09-26T00:00:00
+C02847,Yasmin,Wilson,yasmin.wilson2847@example.com,+971505301799,Ajman,Ajman,Gold,true,2025-08-21,2025-08-21T00:00:00
+C02848,Ali,Sharma,ali.sharma2848@example.com,+971502126482,Abu Dhabi,Abu Dhabi,Silver,false,2025-07-19,2025-07-19T00:00:00
+C02850,Rashid,Al Falasi,rashid.alfalasi2850@example.com,+971509674209,Dubai,Dubai,Bronze,false,2025-12-24,2025-12-24T00:00:00
+C02851,Chloe,Haddad,chloe.haddad2851@example.com,+971504962575,Dubai,Dubai,Bronze,false,2025-11-30,2025-11-30T00:00:00
+C02853,Reem,Menon,reem.menon2853@example.com,+971509104183,Dubai,Dubai,Silver,true,2025-09-19,2025-09-19T00:00:00
+C02854,James,Al Falasi,james.alfalasi2854@example.com,+971503275650,Abu Dhabi,Abu Dhabi,Silver,true,2025-07-28,2025-07-28T00:00:00
+C02855,Hassan,Santos,hassan.santos2855@example.com,+971501270862,Sharjah,Sharjah,Bronze,true,2025-09-02,2025-09-02T00:00:00
+C02857,Shamma,Garcia,shamma.garcia2857@example.com,+971503838033,Al Ain,Abu Dhabi,Bronze,true,2025-08-02,2025-08-02T00:00:00
+C02858,Ali,Iyer,ali.iyer2858@example.com,+971501403834,Umm Al Quwain,Umm Al Quwain,Silver,false,2025-09-16,2025-09-16T00:00:00
+C02860,Chloe,Saleh,chloe.saleh2860@example.com,+971502304420,Sharjah,Sharjah,Silver,true,2025-11-29,2025-11-29T00:00:00
+C02861,Jose,Menon,jose.menon2861@example.com,+971502026635,Dubai,Dubai,Bronze,true,2025-07-29,2025-07-29T00:00:00
+C02862,Ahmed,Iyer,ahmed.iyer2862@example.com,+971503974790,Dubai,Dubai,Silver,true,2025-12-14,2025-12-14T00:00:00
+C02863,Rashid,Pillai,rashid.pillai2863@example.com,+971503582323,Dubai,Dubai,Silver,false,2025-10-03,2025-10-03T00:00:00
+C02865,Anjali,Reyes,anjali.reyes2865@example.com,+971505897885,Dubai,Dubai,Bronze,false,2025-08-06,2025-08-06T00:00:00
+C02866,Lucas,Patel,lucas.patel2866@example.com,+971502461262,Umm Al Quwain,Umm Al Quwain,Platinum,true,2025-10-31,2025-10-31T00:00:00
+C02867,Tariq,Al Nuaimi,tariq.alnuaimi2867@example.com,+971507019539,Dubai,Dubai,Bronze,false,2025-11-25,2025-11-25T00:00:00
+C02868,Layla,Al Zaabi,layla.alzaabi2868@example.com,+971508368372,Abu Dhabi,Abu Dhabi,Bronze,true,2025-11-04,2025-11-04T00:00:00
+C02869,Sophie,Hussain,sophie.hussain2869@example.com,+971505555926,Fujairah,Fujairah,Silver,true,2025-11-08,2025-11-08T00:00:00
+C02871,James,Fernandes,james.fernandes2871@example.com,+971501093623,Ajman,Ajman,Silver,false,2025-08-02,2025-08-02T00:00:00
+C02874,Oliver,Al Suwaidi,oliver.alsuwaidi2874@example.com,+971504350630,Dubai,Dubai,Silver,true,2025-12-02,2025-12-02T00:00:00
+C02879,Layla,Mansour,layla.mansour2879@example.com,+971502490107,Abu Dhabi,Abu Dhabi,Bronze,true,2025-10-18,2025-10-18T00:00:00
+C02880,Meera,Al Falasi,meera.alfalasi2880@example.com,+971507457188,Sharjah,Sharjah,Bronze,true,2025-11-01,2025-11-01T00:00:00
+C02881,Yousef,Al Mansoori,yousef.almansoori2881@example.com,+971509898363,Abu Dhabi,Abu Dhabi,Gold,true,2025-07-21,2025-07-21T00:00:00
+C02884,Meera,Pillai,meera.pillai2884@example.com,+971502362695,Ras Al Khaimah,Ras Al Khaimah,Bronze,false,2025-09-26,2025-09-26T00:00:00
+C02885,Vikram,Sheikh,vikram.sheikh2885@example.com,+971507273588,Dubai,Dubai,Bronze,true,2025-12-06,2025-12-06T00:00:00
+C02887,Grace,Khoury,grace.khoury2887@example.com,+971501986479,Sharjah,Sharjah,Silver,false,2025-10-20,2025-10-20T00:00:00
+C02888,Ahmed,Khan,ahmed.khan2888@example.com,+971505926528,Ras Al Khaimah,Ras Al Khaimah,Bronze,true,2025-08-19,2025-08-19T00:00:00
+C02889,Anjali,Al Shamsi,anjali.alshamsi2889@example.com,+971504729673,Dubai,Dubai,Bronze,false,2025-12-21,2025-12-21T00:00:00
+C02890,Lucas,Farouk,lucas.farouk2890@example.com,+971505670464,Sharjah,Sharjah,Platinum,false,2025-12-26,2025-12-26T00:00:00
+C02891,Arjun,Fernandes,arjun.fernandes2891@example.com,+971502994080,Abu Dhabi,Abu Dhabi,Gold,true,2025-12-27,2025-12-27T00:00:00
+C02892,Reem,D'Souza,reem.dsouza2892@example.com,+971507711989,Dubai,Dubai,Bronze,true,2025-09-14,2025-09-14T00:00:00
+C02894,Angela,Cruz,angela.cruz2894@example.com,+971503170095,Abu Dhabi,Abu Dhabi,Silver,true,2025-09-29,2025-09-29T00:00:00
+C02895,Vikram,Qureshi,vikram.qureshi2895@example.com,+971501847211,Dubai,Dubai,Bronze,true,2025-09-07,2025-09-07T00:00:00
+C02897,Hassan,Nasser,hassan.nasser2897@example.com,+971506783989,Dubai,Dubai,Silver,true,2025-08-22,2025-08-22T00:00:00
+C02898,Vikram,Sheikh,vikram.sheikh2898@example.com,+971505159882,Abu Dhabi,Abu Dhabi,Bronze,true,2025-11-05,2025-11-05T00:00:00
+C02899,Jose,Fernandes,jose.fernandes2899@example.com,+971509311973,Abu Dhabi,Abu Dhabi,Silver,true,2025-09-03,2025-09-03T00:00:00
+C02900,Ahmed,Garcia,ahmed.garcia2900@example.com,+971505274951,Dubai,Dubai,Bronze,false,2025-08-12,2025-08-12T00:00:00
+C02903,Farhan,Mansour,farhan.mansour2903@example.com,+971503462796,Ras Al Khaimah,Ras Al Khaimah,Platinum,true,2025-12-05,2025-12-05T00:00:00
+C02904,Vikram,Sharma,vikram.sharma2904@example.com,+971505768827,Ajman,Ajman,Bronze,true,2025-12-01,2025-12-01T00:00:00
+C02906,Yasmin,Smith,yasmin.smith2906@example.com,+971507438163,Ajman,Ajman,Bronze,false,2025-08-12,2025-08-12T00:00:00
+C02907,Yousef,Cruz,yousef.cruz2907@example.com,+971506528202,Ras Al Khaimah,Ras Al Khaimah,Bronze,true,2025-12-25,2025-12-25T00:00:00
+C02910,Fatima,Taylor,fatima.taylor2910@example.com,+971503209703,Abu Dhabi,Abu Dhabi,Bronze,false,2025-10-08,2025-10-08T00:00:00
+C02912,Sana,Iyer,sana.iyer2912@example.com,+971505871762,Dubai,Dubai,Bronze,false,2025-10-21,2025-10-21T00:00:00
+C02916,Ali,Qureshi,ali.qureshi2916@example.com,+971503459753,Fujairah,Fujairah,Gold,false,2025-10-23,2025-10-23T00:00:00
+C02917,Tariq,Al Zaabi,tariq.alzaabi2917@example.com,+971509650943,Abu Dhabi,Abu Dhabi,Bronze,true,2025-10-27,2025-10-27T00:00:00
+C02919,Ahmed,Santos,ahmed.santos2919@example.com,+971501430716,Abu Dhabi,Abu Dhabi,Silver,true,2025-11-09,2025-11-09T00:00:00
+C02922,Rashid,Wilson,rashid.wilson2922@example.com,+971506900131,Dubai,Dubai,Bronze,true,2025-12-04,2025-12-04T00:00:00
+C02923,Omar,Wilson,omar.wilson2923@example.com,+971506776616,Abu Dhabi,Abu Dhabi,Bronze,true,2025-11-07,2025-11-07T00:00:00
+C02925,Aisha,Pillai,aisha.pillai2925@example.com,+971501045178,Sharjah,Sharjah,Bronze,true,2025-07-24,2025-07-24T00:00:00
+C02929,Olivia,Al Nuaimi,olivia.alnuaimi2929@example.com,+971509962023,Al Ain,Abu Dhabi,Bronze,true,2025-12-23,2025-12-23T00:00:00
+C02932,Rodel,Garcia,rodel.garcia2932@example.com,+971501346701,Dubai,Dubai,Silver,false,2025-11-07,2025-11-07T00:00:00
+C02933,Fatima,Fernandes,fatima.fernandes2933@example.com,+971509102857,Sharjah,Sharjah,Silver,true,2025-09-08,2025-09-08T00:00:00
+C02934,Ayesha,Al Falasi,ayesha.alfalasi2934@example.com,+971502554516,Al Ain,Abu Dhabi,Gold,false,2025-12-15,2025-12-15T00:00:00
+C02935,Ravi,Sharma,ravi.sharma2935@example.com,+971504350278,Dubai,Dubai,Silver,true,2025-11-20,2025-11-20T00:00:00
+C02938,Meera,Hussain,meera.hussain2938@example.com,+971506260319,Dubai,Dubai,Silver,true,2025-12-18,2025-12-18T00:00:00
+C02941,Olivia,Al Zaabi,olivia.alzaabi2941@example.com,+971506686779,Sharjah,Sharjah,Silver,true,2025-07-20,2025-07-20T00:00:00
+C02942,Maria,Nasser,maria.nasser2942@example.com,+971507835795,Dubai,Dubai,Bronze,false,2025-09-07,2025-09-07T00:00:00
+C02943,Maria,Al Mansoori,maria.almansoori2943@example.com,+971501228328,Dubai,Dubai,Silver,true,2025-10-24,2025-10-24T00:00:00
+C02944,Anjali,Al Nuaimi,anjali.alnuaimi2944@example.com,+971509156441,Dubai,Dubai,Bronze,false,2025-10-02,2025-10-02T00:00:00
+C02945,Jose,Al Ketbi,jose.alketbi2945@example.com,+971501869626,Dubai,Dubai,Bronze,true,2025-09-23,2025-09-23T00:00:00
+C02950,Saeed,Al Falasi,saeed.alfalasi2950@example.com,+971504131852,Abu Dhabi,Abu Dhabi,Bronze,false,2025-07-08,2025-07-08T00:00:00
+C02951,Mark,Al Shamsi,mark.alshamsi2951@example.com,+971508775711,Dubai,Dubai,Gold,false,2025-10-02,2025-10-02T00:00:00
+C02953,Tariq,Cruz,tariq.cruz2953@example.com,+971506526040,Sharjah,Sharjah,Bronze,true,2025-10-14,2025-10-14T00:00:00
+C02956,Zainab,Sheikh,zainab.sheikh2956@example.com,+971509305419,Dubai,Dubai,Bronze,true,2025-12-19,2025-12-19T00:00:00
+C02958,Ahmed,Cruz,ahmed.cruz2958@example.com,+971503588109,Abu Dhabi,Abu Dhabi,Gold,true,2025-08-19,2025-08-19T00:00:00
+C02960,Hamdan,Al Mansoori,hamdan.almansoori2960@example.com,+971504865461,Dubai,Dubai,Bronze,false,2025-07-12,2025-07-12T00:00:00
+C02963,Priya,Taylor,priya.taylor2963@example.com,+971506366594,Dubai,Dubai,Silver,true,2025-07-13,2025-07-13T00:00:00
+C02964,Noura,Al Suwaidi,noura.alsuwaidi2964@example.com,+971509803220,Sharjah,Sharjah,Bronze,false,2025-08-25,2025-08-25T00:00:00
+C02967,Chloe,Al Mansoori,chloe.almansoori2967@example.com,+971508863605,Dubai,Dubai,Silver,false,2025-07-23,2025-07-23T00:00:00
+C02968,James,Iyer,james.iyer2968@example.com,+971502488175,Sharjah,Sharjah,Bronze,true,2025-12-23,2025-12-23T00:00:00
+C02969,Khalid,Qureshi,khalid.qureshi2969@example.com,+971507037796,Dubai,Dubai,Bronze,true,2025-11-26,2025-11-26T00:00:00
+C02972,Rodel,Haddad,rodel.haddad2972@example.com,+971504134515,Abu Dhabi,Abu Dhabi,Bronze,true,2025-07-23,2025-07-23T00:00:00
+C02975,Dina,Nair,dina.nair2975@example.com,+971503939153,Dubai,Dubai,Bronze,true,2025-08-06,2025-08-06T00:00:00
+C02977,James,Brown,james.brown2977@example.com,+971502411026,Sharjah,Sharjah,Gold,false,2025-12-12,2025-12-12T00:00:00
+C02979,Omar,Nair,omar.nair2979@example.com,+971504710067,Abu Dhabi,Abu Dhabi,Bronze,false,2025-11-16,2025-11-16T00:00:00
+C02980,Ravi,Patel,ravi.patel2980@example.com,+971503595862,Dubai,Dubai,Silver,true,2025-07-22,2025-07-22T00:00:00
+C02981,Liam,Sheikh,liam.sheikh2981@example.com,+971509267193,Ras Al Khaimah,Ras Al Khaimah,Bronze,true,2025-11-18,2025-11-18T00:00:00
+C02983,Mohammed,Farouk,mohammed.farouk2983@example.com,+971507065068,Dubai,Dubai,Bronze,false,2025-09-03,2025-09-03T00:00:00
+C02988,Jose,Nair,jose.nair2988@example.com,+971506986616,Sharjah,Sharjah,Gold,false,2025-12-29,2025-12-29T00:00:00
+C02989,Liam,Al Zaabi,liam.alzaabi2989@example.com,+971508513116,Dubai,Dubai,Bronze,true,2025-07-31,2025-07-31T00:00:00
+C02990,Shamma,Al Hashmi,shamma.alhashmi2990@example.com,+971504650543,Al Ain,Abu Dhabi,Silver,true,2025-10-29,2025-10-29T00:00:00
+C02991,Olivia,Santos,olivia.santos2991@example.com,+971502298335,Ajman,Ajman,Silver,false,2025-09-07,2025-09-07T00:00:00
+C02992,Fatima,Smith,fatima.smith2992@example.com,+971501238337,Sharjah,Sharjah,Silver,false,2025-08-08,2025-08-08T00:00:00
+C02995,Ayesha,Al Zaabi,ayesha.alzaabi2995@example.com,+971502750356,Abu Dhabi,Abu Dhabi,Silver,true,2025-10-28,2025-10-28T00:00:00
+C02997,Rashid,Khan,rashid.khan2997@example.com,+971509909616,Ras Al Khaimah,Ras Al Khaimah,Gold,true,2025-12-25,2025-12-25T00:00:00
+C02998,Rashid,Brown,rashid.brown2998@example.com,+971508735892,Al Ain,Abu Dhabi,Bronze,true,2025-11-24,2025-11-24T00:00:00
+C02999,Salma,Fernandes,salma.fernandes2999@example.com,+971503160366,Abu Dhabi,Abu Dhabi,Bronze,false,2025-09-21,2025-09-21T00:00:00
+C03000,James,Al Ketbi,james.alketbi3000@example.com,+971505867457,Dubai,Dubai,Bronze,true,2025-11-30,2025-11-30T00:00:00
+C03001,Omar,Nair,omar.nair3001@example.com,+971505285200,Sharjah,Sharjah,Bronze,true,2025-12-25,2025-12-25T00:00:00
+C03002,Tariq,Santos,tariq.santos3002@example.com,+971506445335,Al Ain,Abu Dhabi,Bronze,true,2025-10-23,2025-10-23T00:00:00
+C03004,Hessa,Nair,hessa.nair3004@example.com,+971503002028,Abu Dhabi,Abu Dhabi,Gold,true,2025-08-17,2025-08-17T00:00:00
+C03007,Jose,Smith,jose.smith3007@example.com,+971507014194,Dubai,Dubai,Bronze,false,2025-09-26,2025-09-26T00:00:00
+C03010,Maria,Wilson,maria.wilson3010@example.com,+971502786964,Dubai,Dubai,Bronze,true,2025-08-02,2025-08-02T00:00:00
+C03015,Aisha,Qureshi,aisha.qureshi3015@example.com,+971506583198,Dubai,Dubai,Bronze,false,2025-07-31,2025-07-31T00:00:00
+C03017,Karim,Al Zaabi,karim.alzaabi3017@example.com,+971508979753,Sharjah,Sharjah,Gold,false,2025-08-11,2025-08-11T00:00:00
+C03018,Emma,Khan,emma.khan3018@example.com,+971506647804,Ajman,Ajman,Silver,true,2025-10-23,2025-10-23T00:00:00
+C03019,Maria,Santos,maria.santos3019@example.com,+971506013436,Abu Dhabi,Abu Dhabi,Gold,true,2025-07-06,2025-07-06T00:00:00
+C03020,Ali,Haddad,ali.haddad3020@example.com,+971509256789,Sharjah,Sharjah,Platinum,false,2025-07-02,2025-07-02T00:00:00
+C03026,Rodel,Taylor,rodel.taylor3026@example.com,+971502907213,Al Ain,Abu Dhabi,Bronze,true,2025-08-13,2025-08-13T00:00:00
+C03027,Olivia,Santos,olivia.santos3027@example.com,+971509769129,Umm Al Quwain,Umm Al Quwain,Bronze,true,2025-08-07,2025-08-07T00:00:00
+C03030,Zainab,Haddad,zainab.haddad3030@example.com,+971505696796,Sharjah,Sharjah,Bronze,false,2025-11-27,2025-11-27T00:00:00
+C03034,Anjali,Nasser,anjali.nasser3034@example.com,+971501392646,Abu Dhabi,Abu Dhabi,Gold,true,2025-10-17,2025-10-17T00:00:00
+C03035,Liam,Sheikh,liam.sheikh3035@example.com,+971508948326,Dubai,Dubai,Bronze,true,2025-08-25,2025-08-25T00:00:00
+C03036,Mohammed,Sheikh,mohammed.sheikh3036@example.com,+971504825188,Ajman,Ajman,Silver,true,2025-10-25,2025-10-25T00:00:00
+C03039,Imran,Smith,imran.smith3039@example.com,+971509805208,Dubai,Dubai,Platinum,false,2025-09-13,2025-09-13T00:00:00
+C03040,Lucas,Al Shamsi,lucas.alshamsi3040@example.com,+971504525412,Ajman,Ajman,Bronze,true,2025-10-07,2025-10-07T00:00:00
+C03042,Maria,Hussain,maria.hussain3042@example.com,+971504524857,Al Ain,Abu Dhabi,Bronze,true,2025-11-19,2025-11-19T00:00:00
+C03043,Shamma,D'Souza,shamma.dsouza3043@example.com,+971503609773,Dubai,Dubai,Silver,true,2025-07-31,2025-07-31T00:00:00
+C03045,Mohammed,Brown,mohammed.brown3045@example.com,+971502673834,Sharjah,Sharjah,Gold,false,2025-11-06,2025-11-06T00:00:00
+C03046,Sophie,Haddad,sophie.haddad3046@example.com,+971502649056,Ajman,Ajman,Silver,true,2025-10-05,2025-10-05T00:00:00
+C03047,Ahmed,Khoury,ahmed.khoury3047@example.com,+971501614850,Abu Dhabi,Abu Dhabi,Bronze,true,2025-09-09,2025-09-09T00:00:00
+C03051,Liam,Sharma,liam.sharma3051@example.com,+971504204597,Umm Al Quwain,Umm Al Quwain,Bronze,true,2025-09-24,2025-09-24T00:00:00
+C03052,Grace,Patel,grace.patel3052@example.com,+971503865691,Sharjah,Sharjah,Bronze,true,2025-09-08,2025-09-08T00:00:00
+C03053,Fatima,Smith,fatima.smith3053@example.com,+971501549194,Abu Dhabi,Abu Dhabi,Bronze,true,2025-11-21,2025-11-21T00:00:00
+C03054,Dina,Sharma,dina.sharma3054@example.com,+971505700249,Abu Dhabi,Abu Dhabi,Bronze,true,2025-09-03,2025-09-03T00:00:00
+C03055,Lucas,Menon,lucas.menon3055@example.com,+971502280938,Dubai,Dubai,Bronze,false,2025-09-19,2025-09-19T00:00:00
+C03057,Grace,Al Falasi,grace.alfalasi3057@example.com,+971507602571,Dubai,Dubai,Silver,true,2025-10-03,2025-10-03T00:00:00
+C03058,Grace,Farouk,grace.farouk3058@example.com,+971503384438,Abu Dhabi,Abu Dhabi,Silver,true,2025-08-14,2025-08-14T00:00:00
+C03059,Arjun,Wilson,arjun.wilson3059@example.com,+971505897647,Abu Dhabi,Abu Dhabi,Bronze,true,2025-11-19,2025-11-19T00:00:00
+C03062,Shamma,Al Falasi,shamma.alfalasi3062@example.com,+971509358735,Dubai,Dubai,Bronze,false,2025-12-06,2025-12-06T00:00:00
+C03063,Ayesha,Sheikh,ayesha.sheikh3063@example.com,+971504917839,Abu Dhabi,Abu Dhabi,Bronze,false,2025-11-05,2025-11-05T00:00:00
+C03065,Anjali,Hussain,anjali.hussain3065@example.com,+971504804546,Umm Al Quwain,Umm Al Quwain,Bronze,true,2025-12-06,2025-12-06T00:00:00
+C03066,Omar,Wilson,omar.wilson3066@example.com,+971505266269,Al Ain,Abu Dhabi,Bronze,true,2025-07-11,2025-07-11T00:00:00
+C03067,Mohammed,Mansour,mohammed.mansour3067@example.com,+971506031337,Ras Al Khaimah,Ras Al Khaimah,Silver,false,2025-07-20,2025-07-20T00:00:00
+C03069,Emma,Santos,emma.santos3069@example.com,+971502927778,Sharjah,Sharjah,Bronze,true,2025-11-19,2025-11-19T00:00:00
+C03075,Liam,Haddad,liam.haddad3075@example.com,+971504140100,Sharjah,Sharjah,Silver,true,2025-10-23,2025-10-23T00:00:00
+C03076,Grace,Mansour,grace.mansour3076@example.com,+971507334303,Dubai,Dubai,Bronze,false,2025-07-14,2025-07-14T00:00:00
+C03081,Noura,Santos,noura.santos3081@example.com,+971503754895,Dubai,Dubai,Bronze,false,2025-07-27,2025-07-27T00:00:00
+C03083,Aisha,Al Falasi,aisha.alfalasi3083@example.com,+971505132780,Abu Dhabi,Abu Dhabi,Silver,true,2025-07-13,2025-07-13T00:00:00
+C03085,Layla,Pillai,layla.pillai3085@example.com,+971507302010,Sharjah,Sharjah,Silver,true,2025-11-25,2025-11-25T00:00:00
+C03090,Liam,Al Suwaidi,liam.alsuwaidi3090@example.com,+971509090002,Dubai,Dubai,Silver,true,2025-07-14,2025-07-14T00:00:00
+C03091,Mariam,Al Falasi,mariam.alfalasi3091@example.com,+971508683770,Dubai,Dubai,Silver,true,2025-07-04,2025-07-04T00:00:00
+C03093,Mark,Al Hashmi,mark.alhashmi3093@example.com,+971501868514,Al Ain,Abu Dhabi,Bronze,true,2025-08-12,2025-08-12T00:00:00
+C03096,Rashid,Al Hashmi,rashid.alhashmi3096@example.com,+971501248003,Fujairah,Fujairah,Silver,true,2025-08-01,2025-08-01T00:00:00
+C03097,Khalid,Al Shamsi,khalid.alshamsi3097@example.com,+971507801301,Al Ain,Abu Dhabi,Bronze,true,2025-08-23,2025-08-23T00:00:00
+C03099,Vikram,Nair,vikram.nair3099@example.com,+971502209670,Dubai,Dubai,Gold,true,2025-10-25,2025-10-25T00:00:00

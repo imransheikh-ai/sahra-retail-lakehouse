@@ -1,0 +1,13 @@
+store_id,store_name,city,emirate,store_format,latitude,longitude,opened_date,size_sqm
+ST01,Sahra Downtown Dubai,Dubai,Dubai,Hypermarket,25.1972,55.2744,2016-03-12,9500
+ST02,Sahra Deira,Dubai,Dubai,Hypermarket,25.2517,55.3325,2014-09-01,8800
+ST03,Sahra Express JLT,Dubai,Dubai,Express,25.0693,55.1413,2019-11-20,900
+ST04,Sahra Yas Island,Abu Dhabi,Abu Dhabi,Hypermarket,24.4886,54.6073,2017-06-18,9100
+ST05,Sahra Al Wahda,Abu Dhabi,Abu Dhabi,Hypermarket,24.47,54.3727,2015-02-10,7600
+ST06,Sahra Express Khalifa City,Abu Dhabi,Abu Dhabi,Express,24.419,54.578,2021-04-04,850
+ST07,Sahra Al Nahda Sharjah,Sharjah,Sharjah,Hypermarket,25.3006,55.3727,2018-01-15,7200
+ST08,Sahra Al Ain Central,Al Ain,Abu Dhabi,Hypermarket,24.2075,55.7447,2018-10-07,6400
+ST09,Sahra Express Al Hamra,Ras Al Khaimah,Ras Al Khaimah,Express,25.696,55.781,2022-02-22,780
+ST10,Sahra Express Ajman,Ajman,Ajman,Express,25.4052,55.443,2020-08-30,820
+ST11,Sahra Fujairah City,Fujairah,Fujairah,Express,25.1288,56.3265,2023-05-14,760
+ST12,Sahra Online,Online,Online,Online,,,2020-04-01,0

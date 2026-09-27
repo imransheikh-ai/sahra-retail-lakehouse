@@ -1,0 +1,321 @@
+{
+  "row_counts": {
+    "sahra_bronze.orders_raw": 77902,
+    "sahra_bronze.customers_raw": 3420,
+    "sahra_bronze.products_raw": 110,
+    "sahra_bronze.stores_raw": 12,
+    "sahra_silver.customers_history": 3395,
+    "sahra_silver.stores": 12,
+    "sahra_silver.products": 110,
+    "sahra_silver.orders": 77303,
+    "sahra_silver.order_items": 198384,
+    "sahra_silver.order_items_quarantine": 408,
+    "sahra_silver.customers_current": 3100,
+    "sahra_gold.dim_date": 730,
+    "sahra_gold.sales_enriched": 198384,
+    "sahra_gold.daily_store_sales": 4379,
+    "sahra_gold.monthly_category_sales": 72,
+    "sahra_gold.product_performance": 110,
+    "sahra_gold.customer_rfm": 3025
+  },
+  "expectations": {
+    "sahra_silver.stores.store_id_format": {
+      "action": "FAIL",
+      "failed_rows": 0
+    },
+    "sahra_silver.products.price_positive": {
+      "action": "DROP",
+      "failed_rows": 0
+    },
+    "sahra_silver.products.cost_below_price": {
+      "action": "WARN",
+      "failed_rows": 0
+    },
+    "sahra_silver.orders.order_id_present": {
+      "action": "DROP",
+      "failed_rows": 0
+    },
+    "sahra_silver.orders.order_ts_parsed": {
+      "action": "DROP",
+      "failed_rows": 0
+    },
+    "sahra_silver.orders.known_status": {
+      "action": "WARN",
+      "failed_rows": 0
+    },
+    "sahra_silver.orders.valid_store_id": {
+      "action": "WARN",
+      "failed_rows": 0
+    },
+    "sahra_silver.order_items.positive_qty": {
+      "action": "DROP",
+      "failed_rows": 284
+    },
+    "sahra_silver.order_items.price_present": {
+      "action": "DROP",
+      "failed_rows": 124
+    }
+  },
+  "kpis": {
+    "net_revenue": 35883004.0,
+    "gross_margin": 9859129.0,
+    "orders": 70901,
+    "units": 321180,
+    "avg_basket": 506.1
+  },
+  "by_category": [
+    {
+      "category": "Electronics",
+      "revenue": 14901647.0,
+      "margin": 0.119
+    },
+    {
+      "category": "Fashion",
+      "revenue": 6272710.0,
+      "margin": 0.483
+    },
+    {
+      "category": "Home",
+      "revenue": 5748673.0,
+      "margin": 0.397
+    },
+    {
+      "category": "Grocery",
+      "revenue": 4431476.0,
+      "margin": 0.194
+    },
+    {
+      "category": "Beauty",
+      "revenue": 3557438.0,
+      "margin": 0.471
+    },
+    {
+      "category": "Beverages",
+      "revenue": 971060.0,
+      "margin": 0.257
+    }
+  ],
+  "by_emirate": [
+    {
+      "store_emirate": "Abu Dhabi",
+      "revenue": 12617579.0
+    },
+    {
+      "store_emirate": "Dubai",
+      "revenue": 12026567.0
+    },
+    {
+      "store_emirate": "Online",
+      "revenue": 4506919.0
+    },
+    {
+      "store_emirate": "Sharjah",
+      "revenue": 3646970.0
+    },
+    {
+      "store_emirate": "Ajman",
+      "revenue": 1192420.0
+    },
+    {
+      "store_emirate": "Ras Al Khaimah",
+      "revenue": 991750.0
+    },
+    {
+      "store_emirate": "Fujairah",
+      "revenue": 900800.0
+    }
+  ],
+  "by_month": [
+    {
+      "m": 1,
+      "revenue": 3181693.0,
+      "orders": 6239
+    },
+    {
+      "m": 2,
+      "revenue": 2516312.0,
+      "orders": 5146
+    },
+    {
+      "m": 3,
+      "revenue": 3026598.0,
+      "orders": 7011
+    },
+    {
+      "m": 4,
+      "revenue": 2880241.0,
+      "orders": 5962
+    },
+    {
+      "m": 5,
+      "revenue": 2966482.0,
+      "orders": 5847
+    },
+    {
+      "m": 6,
+      "revenue": 3139586.0,
+      "orders": 6123
+    },
+    {
+      "m": 7,
+      "revenue": 2224288.0,
+      "orders": 4372
+    },
+    {
+      "m": 8,
+      "revenue": 2637933.0,
+      "orders": 4576
+    },
+    {
+      "m": 9,
+      "revenue": 2709687.0,
+      "orders": 5445
+    },
+    {
+      "m": 10,
+      "revenue": 2825469.0,
+      "orders": 5661
+    },
+    {
+      "m": 11,
+      "revenue": 3624528.0,
+      "orders": 6444
+    },
+    {
+      "m": 12,
+      "revenue": 4150186.0,
+      "orders": 8075
+    }
+  ],
+  "by_event": [
+    {
+      "retail_event": "White Friday",
+      "revenue_per_day": 204034.0
+    },
+    {
+      "retail_event": "Eid al-Adha",
+      "revenue_per_day": 170842.0
+    },
+    {
+      "retail_event": "Eid al-Fitr",
+      "revenue_per_day": 145649.0
+    },
+    {
+      "retail_event": "Dubai Shopping Festival",
+      "revenue_per_day": 133964.0
+    },
+    {
+      "retail_event": "National Day",
+      "revenue_per_day": 113090.0
+    },
+    {
+      "retail_event": "Back to School",
+      "revenue_per_day": 96913.0
+    },
+    {
+      "retail_event": "Ramadan",
+      "revenue_per_day": 94337.0
+    },
+    {
+      "retail_event": "Regular",
+      "revenue_per_day": 88228.0
+    }
+  ],
+  "segments": [
+    {
+      "segment": "Champions",
+      "customers": 743,
+      "revenue": 21106245.0
+    },
+    {
+      "segment": "Loyal",
+      "customers": 467,
+      "revenue": 4020992.0
+    },
+    {
+      "segment": "Needs Attention",
+      "customers": 527,
+      "revenue": 1876075.0
+    },
+    {
+      "segment": "Hibernating",
+      "customers": 700,
+      "revenue": 1344512.0
+    },
+    {
+      "segment": "At Risk",
+      "customers": 291,
+      "revenue": 1168036.0
+    },
+    {
+      "segment": "New & Promising",
+      "customers": 297,
+      "revenue": 744710.0
+    }
+  ],
+  "tiers_at_order": [
+    {
+      "loyalty_tier_at_order": "Silver",
+      "orders": 22572
+    },
+    {
+      "loyalty_tier_at_order": "Bronze",
+      "orders": 19565
+    },
+    {
+      "loyalty_tier_at_order": "Gold",
+      "orders": 14384
+    },
+    {
+      "loyalty_tier_at_order": "Guest",
+      "orders": 12137
+    },
+    {
+      "loyalty_tier_at_order": "Platinum",
+      "orders": 8357
+    },
+    {
+      "loyalty_tier_at_order": "Unknown",
+      "orders": 149
+    }
+  ],
+  "top_products": [
+    {
+      "product_name": "14-inch Laptop",
+      "category": "Electronics",
+      "net_revenue": 3206307.66
+    },
+    {
+      "product_name": "55-inch 4K Smart TV",
+      "category": "Electronics",
+      "net_revenue": 1920812.13
+    },
+    {
+      "product_name": "Smartphone 128GB",
+      "category": "Electronics",
+      "net_revenue": 1569230.64
+    },
+    {
+      "product_name": "Action Camera",
+      "category": "Electronics",
+      "net_revenue": 1349466.88
+    },
+    {
+      "product_name": "Gaming Console",
+      "category": "Electronics",
+      "net_revenue": 1333396.81
+    }
+  ],
+  "quarantine": [
+    {
+      "reject_reason": "missing_price",
+      "n": 124
+    },
+    {
+      "reject_reason": "non_positive_qty",
+      "n": 284
+    }
+  ],
+  "dupes_removed": 599,
+  "scd2_customers_with_history": 295
+}

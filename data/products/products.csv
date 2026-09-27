@@ -1,0 +1,111 @@
+product_id,product_name,category,subcategory,brand,unit_price_aed,unit_cost_aed,is_private_label,launched_on
+P0001,Basmati Rice 5kg,Grocery,Staples,Al Barakah,48.87,35.31,true,2019-10-13
+P0002,Medjool Dates 1kg,Grocery,Dates & Nuts,Sahra Select,78.14,61.55,false,2019-03-07
+P0003,Khalas Dates 500g,Grocery,Dates & Nuts,Sahra Select,18.42,13.67,false,2023-01-06
+P0004,Arabic Coffee 250g,Grocery,Coffee & Tea,Oasis Farms,33.7,26.1,false,2020-07-23
+P0005,Saffron 2g,Grocery,Spices,Oasis Farms,41.19,29.68,false,2020-11-27
+P0006,Za'atar Mix 200g,Grocery,Spices,Al Barakah,10.95,8.12,true,2021-02-17
+P0007,Extra Virgin Olive Oil 1L,Grocery,Staples,Al Barakah,33.55,27.0,false,2023-02-03
+P0008,Labneh 500g,Grocery,Dairy,Golden Palm,13.76,10.08,true,2020-08-23
+P0009,Camel Milk 1L,Grocery,Dairy,Al Barakah,18.98,14.84,false,2022-12-13
+P0010,Halloumi 250g,Grocery,Dairy,Al Barakah,15.49,12.18,false,2023-10-18
+P0011,Hummus 400g,Grocery,Chilled,Al Barakah,9.16,6.69,false,2023-09-05
+P0012,Arabic Bread 6pc,Grocery,Bakery,Oasis Farms,4.09,3.1,false,2022-12-08
+P0013,Mixed Nuts 500g,Grocery,Dates & Nuts,Oasis Farms,58.42,45.85,false,2020-05-16
+P0014,Tahini 450g,Grocery,Staples,Oasis Farms,13.14,9.96,false,2023-09-23
+P0015,Chicken Breast 1kg,Grocery,Fresh Meat,Sahra Select,35.68,25.89,false,2021-04-01
+P0016,Lamb Chops 1kg,Grocery,Fresh Meat,Al Barakah,71.69,53.13,true,2021-10-19
+P0017,Hammour Fillet 1kg,Grocery,Seafood,Golden Palm,85.83,69.65,true,2019-10-13
+P0018,Tomatoes 1kg,Grocery,Fresh Produce,Al Barakah,5.99,4.65,false,2021-05-27
+P0019,Bananas 1kg,Grocery,Fresh Produce,Oasis Farms,8.69,6.6,false,2019-10-11
+P0020,Mangoes 1kg,Grocery,Fresh Produce,Sahra Select,17.1,12.47,false,2019-11-10
+P0021,Pasta 500g,Grocery,Staples,Golden Palm,7.51,6.0,false,2021-02-27
+P0022,Honey Sidr 500g,Grocery,Staples,Al Barakah,110.53,90.59,false,2023-10-29
+P0023,Oats 1kg,Grocery,Breakfast,Sahra Select,17.65,13.91,false,2022-01-04
+P0024,Eggs 30pc,Grocery,Dairy,Al Barakah,28.01,22.32,true,2021-06-09
+P0025,Vermicelli 400g,Grocery,Staples,Al Barakah,4.47,3.22,false,2023-04-10
+P0026,Laban 1L,Beverages,Dairy Drinks,Karak House,5.54,4.26,false,2021-11-05
+P0027,Water 12x500ml,Beverages,Water,Blue Wadi,11.04,7.4,false,2023-05-14
+P0028,Karak Tea Mix 20pc,Beverages,Hot Drinks,Karak House,21.38,16.45,false,2019-08-18
+P0029,Orange Juice 1.5L,Beverages,Juices,Karak House,14.57,11.13,true,2020-05-08
+P0030,Vimto Cordial 710ml,Beverages,Cordials,Sahra Select,13.51,10.44,false,2023-07-30
+P0031,Sparkling Water 6pk,Beverages,Water,Blue Wadi,12.42,9.3,true,2021-08-31
+P0032,Energy Drink 4pk,Beverages,Soft Drinks,Fresh Dune,25.57,17.17,false,2022-01-09
+P0033,Cola 6x330ml,Beverages,Soft Drinks,Karak House,14.78,10.93,false,2022-10-07
+P0034,Green Tea 100pc,Beverages,Hot Drinks,Fresh Dune,23.8,16.83,true,2020-04-05
+P0035,Coconut Water 1L,Beverages,Juices,Blue Wadi,10.38,6.78,false,2019-01-15
+P0036,Iced Coffee 4pk,Beverages,Soft Drinks,Blue Wadi,20.57,15.06,true,2019-03-06
+P0037,Mint Lemonade 1L,Beverages,Juices,Blue Wadi,11.44,7.54,false,2021-09-21
+P0038,Rooh Afza 800ml,Beverages,Cordials,Fresh Dune,13.29,8.87,true,2021-08-26
+P0039,Protein Shake 330ml,Beverages,Soft Drinks,Sahra Select,13.04,8.8,false,2020-12-26
+P0040,Turkish Coffee 250g,Beverages,Hot Drinks,Sahra Select,23.08,16.4,false,2022-08-16
+P0041,Wireless Earbuds,Electronics,Audio,Zentra,203.13,170.68,false,2019-08-12
+P0042,Power Bank 20000mAh,Electronics,Accessories,Kairo,108.84,89.14,true,2020-01-11
+P0043,Smart Watch,Electronics,Wearables,Voltix,733.25,604.92,false,2023-10-31
+P0044,55-inch 4K Smart TV,Electronics,TV,Voltix,3039.74,2461.55,false,2023-03-24
+P0045,14-inch Laptop,Electronics,Computing,Kairo,4999.7,4082.91,false,2023-11-06
+P0046,Smartphone 128GB,Electronics,Mobile,Kairo,2202.12,1774.61,true,2021-03-10
+P0047,Bluetooth Speaker,Electronics,Audio,Kairo,253.65,222.81,false,2022-11-27
+P0048,USB-C Charger 65W,Electronics,Accessories,Kairo,174.3,156.79,true,2020-08-30
+P0049,Gaming Console,Electronics,Gaming,Voltix,1907.85,1537.44,false,2019-04-28
+P0050,Tablet 11-inch,Electronics,Computing,Nuvo,1409.31,1194.64,true,2021-11-06
+P0051,Air Fryer 5L,Electronics,Small Appliances,Voltix,277.04,226.78,false,2020-04-26
+P0052,Robot Vacuum,Electronics,Small Appliances,Nuvo,1304.66,1166.57,false,2019-03-23
+P0053,Espresso Machine,Electronics,Small Appliances,Zentra,1366.13,1150.18,false,2020-02-23
+P0054,Noise Cancelling Headphones,Electronics,Audio,Zentra,1201.75,999.16,false,2022-10-07
+P0055,Portable Fan,Electronics,Small Appliances,Voltix,100.64,85.11,true,2022-06-26
+P0056,Action Camera,Electronics,Cameras,Voltix,1897.45,1706.96,false,2021-11-02
+P0057,Wi-Fi Router,Electronics,Networking,Voltix,331.6,296.23,false,2021-01-26
+P0058,Hair Dryer,Electronics,Personal Care,Zentra,391.24,330.14,false,2023-07-11
+P0059,Electric Kettle,Electronics,Small Appliances,Zentra,190.18,152.29,false,2019-08-01
+P0060,Phone Case,Electronics,Accessories,Voltix,113.5,92.32,false,2023-03-01
+P0061,Bakhoor Burner,Home,Fragrance,Majlis & Co,119.69,64.73,false,2020-02-21
+P0062,Prayer Mat,Home,Living,Qasr,93.44,58.67,false,2023-09-29
+P0063,Bedsheet Set King,Home,Bedding,Nest Gulf,142.72,84.94,true,2020-11-14
+P0064,Bath Towel Set,Home,Bath,Nest Gulf,194.67,115.94,true,2021-06-23
+P0065,Non-stick Pan 28cm,Home,Kitchen,Sahra Home,135.2,76.27,true,2022-11-16
+P0066,Dinner Set 24pc,Home,Kitchen,Nest Gulf,465.38,270.78,false,2019-10-31
+P0067,Dallah Coffee Pot,Home,Kitchen,Nest Gulf,140.66,71.21,false,2023-06-19
+P0068,Floor Cushion Majlis,Home,Living,Nest Gulf,342.05,173.07,true,2020-05-26
+P0069,Blackout Curtains,Home,Living,Qasr,259.06,143.27,false,2023-03-15
+P0070,Storage Boxes 3pc,Home,Storage,Majlis & Co,59.82,38.25,false,2023-07-19
+P0071,LED Desk Lamp,Home,Lighting,Majlis & Co,80.25,45.09,false,2020-11-11
+P0072,Ramadan Lantern,Home,Seasonal,Majlis & Co,125.06,70.25,false,2023-06-01
+P0073,Pillow 2pk,Home,Bedding,Sahra Home,119.13,66.4,false,2020-03-31
+P0074,Laundry Detergent 5L,Home,Cleaning,Nest Gulf,39.79,25.38,false,2023-06-17
+P0075,Dish Soap 1L,Home,Cleaning,Majlis & Co,13.23,7.06,false,2020-07-24
+P0076,Air Freshener Oud,Home,Fragrance,Nest Gulf,32.29,20.83,false,2021-11-09
+P0077,Water Dispenser,Home,Kitchen,Nest Gulf,498.84,322.84,false,2019-08-25
+P0078,Food Containers 10pc,Home,Kitchen,Nest Gulf,91.62,49.4,true,2022-05-06
+P0079,Wall Clock,Home,Decor,Nest Gulf,114.18,69.57,false,2021-11-13
+P0080,Outdoor Chair,Home,Outdoor,Majlis & Co,113.29,71.93,false,2022-12-22
+P0081,Oud Perfume 100ml,Beauty,Fragrance,Sahra Beauty,504.24,248.89,false,2019-05-24
+P0082,Rose Attar 12ml,Beauty,Fragrance,Musk Road,287.75,162.79,false,2019-09-13
+P0083,Bakhoor Blocks 50g,Beauty,Fragrance,Musk Road,118.17,53.66,false,2020-10-30
+P0084,Sunscreen SPF50,Beauty,Skincare,Sahra Beauty,85.22,38.62,true,2022-09-23
+P0085,Argan Hair Oil,Beauty,Haircare,Sahra Beauty,114.23,59.62,false,2020-09-08
+P0086,Kohl Eyeliner,Beauty,Makeup,Musk Road,53.36,29.35,false,2021-05-30
+P0087,Moisturiser 50ml,Beauty,Skincare,Musk Road,208.29,106.06,false,2021-06-24
+P0088,Shampoo 400ml,Beauty,Haircare,Sahra Beauty,46.03,22.65,false,2020-08-04
+P0089,Lipstick,Beauty,Makeup,Musk Road,100.85,51.83,true,2023-03-19
+P0090,Face Wash 150ml,Beauty,Skincare,Sahra Beauty,37.68,17.18,true,2019-04-05
+P0091,Henna Kit,Beauty,Seasonal,Oud Layali,26.35,12.79,false,2022-07-13
+P0092,Body Lotion 400ml,Beauty,Skincare,Dune Glow,63.54,33.63,false,2020-05-14
+P0093,Beard Oil,Beauty,Men's Grooming,Oud Layali,47.85,25.06,false,2020-03-24
+P0094,Razor 5pk,Beauty,Men's Grooming,Dune Glow,32.74,18.74,true,2020-05-25
+P0095,Nail Polish Set,Beauty,Makeup,Sahra Beauty,93.72,39.54,false,2022-09-29
+P0096,Kandura White,Fashion,Menswear,Marina Line,334.9,174.35,false,2021-06-25
+P0097,Ghutra,Fashion,Menswear,Falaj,144.77,79.55,false,2022-01-27
+P0098,Abaya Classic,Fashion,Womenswear,Falaj,511.14,229.32,false,2023-03-20
+P0099,Shayla,Fashion,Womenswear,Falaj,66.2,35.4,false,2020-07-16
+P0100,Sneakers,Fashion,Footwear,Corniche,363.75,199.49,false,2020-10-16
+P0101,Sandals,Fashion,Footwear,Corniche,274.4,119.23,true,2022-11-22
+P0102,Kids Eid Outfit,Fashion,Kidswear,Falaj,129.56,59.4,false,2022-01-16
+P0103,School Uniform Set,Fashion,Kidswear,Falaj,140.25,60.48,false,2023-04-26
+P0104,School Backpack,Fashion,Accessories,Falaj,178.29,97.2,false,2020-12-21
+P0105,Sunglasses,Fashion,Accessories,Falaj,218.45,107.08,false,2023-02-13
+P0106,Cotton T-Shirt,Fashion,Casual,Corniche,61.77,32.65,false,2020-07-12
+P0107,Linen Shirt,Fashion,Casual,Marina Line,164.38,69.9,false,2023-06-23
+P0108,Sports Tracksuit,Fashion,Sportswear,Falaj,250.08,112.46,false,2022-06-28
+P0109,Leather Wallet,Fashion,Accessories,Sahra Style,196.51,114.61,true,2021-05-27
+P0110,Wrist Watch,Fashion,Accessories,Sahra Style,348.27,175.22,false,2020-11-01
